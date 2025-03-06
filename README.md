@@ -7,4 +7,4 @@ Spice up Chat GPT
 -Commands
 
 # Commands
-(Removed for now)
+:ping

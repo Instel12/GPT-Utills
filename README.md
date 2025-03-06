@@ -1,7 +1,10 @@
 # GPTJB
-Welcome to GPTJB
-If you distribute this please leave credit!
-If it replys with method patched create an issue.
+Spice up Chat GPT
+
+#Features
+AI now gives options
+AI shows disrespect
+Commands
 
 # Commands
 (Removed for now)

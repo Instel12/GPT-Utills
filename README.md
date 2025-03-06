@@ -1,4 +1,4 @@
-# GPTJB
+# GPT Utills
 Spice up Chat GPT
 
 #Features
@@ -8,3 +8,5 @@ Spice up Chat GPT
 
 # Commands
 :ping
+:calc
+:reset

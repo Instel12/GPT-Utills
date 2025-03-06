@@ -8,6 +8,3 @@ Spice up Chat GPT
 
 # Commands
 (Removed for now)
-
-# Prompt
-https://raw.githubusercontent.com/Instel12/GPTJB/refs/heads/main/Prompt.txt

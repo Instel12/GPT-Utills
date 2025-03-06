@@ -1,7 +1,7 @@
 # GPTJB
 Welcome to GPTJB
 If you distribute this please leave credit!
-MAKE SURE TO TURN ON SEARCH.
+If it replys with method patched create an issue.
 
 # Commands
 (Removed for now)
